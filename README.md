@@ -59,4 +59,4 @@ After restructuring the classes, we organized dental conditions into a hierarchi
 ### Model Predictions
 Below is a sample visualization showing ground truth annotations (left) and model predictions (right):
 
-![DensNet121_prediction_comparison](https://github.com/user-attachments/assets/85588770-489b-4da5-8874-bc05ed2044da)
+<img src="https://github.com/user-attachments/assets/85588770-489b-4da5-8874-bc05ed2044da" alt="DensNet121_prediction_comparison" width="500"/>
