@@ -10,7 +10,7 @@ This repository contains the implementation of our Graduation Project:Dental dis
 
 ## 📝 Project Overview
 
-We conducted a comprehensive comparison of various deep learning models for multiclass classification of dental problems using panoramic radiographs. Our results demonstrate the effectiveness of models like EfficientNetV2 and DenseNet-121 in accurately identifying multiple dental conditions from a single radiographic image.
+We conducted a comprehensive comparison of various deep learning models for multiclass classification of dental problems using panoramic radiographs. Our results demonstrate the effectiveness of models like EfficientNetV2, DenseNet-121, VGG-16, ResNet-50 and InceptionV3 in accurately identifying multiple dental conditions from a single radiographic image.
 
 ## 🗂️ Dataset
 
