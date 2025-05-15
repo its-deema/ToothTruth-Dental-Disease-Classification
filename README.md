@@ -30,10 +30,10 @@ The processed dataset is available in the `Final_processed_dataset` folder withi
 We implemented and compared five state-of-the-art deep learning architectures:
 
 1. **EfficientNetV2** - Achieved 97.04% accuracy and 95.79% mAP
-2. **DenseNet-121** - Achieved 96.70% accuracy and 94.25% mAP
-3. **ResNet50** - Achieved 95.45% accuracy and 91.29% mAP
-4. **VGG16** - Achieved 95.40% accuracy and 93.20% mAP
-5. **InceptionV3** - Achieved 94.49% accuracy and 89.14% mAP
+2. **InceptionV3** - Achieved 97.51% accuracy and 96.61% mAP
+3. **DenseNet-121** - Achieved 96.70% accuracy and 94.25% mAP
+4. **ResNet50** - Achieved 95.45% accuracy and 91.29% mAP
+5. **VGG16** - Achieved 95.40% accuracy and 93.20% mAP
 
 ## 📈 Implementation
 
