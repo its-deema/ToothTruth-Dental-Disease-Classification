@@ -46,7 +46,7 @@ The project implementation includes:
 
 ## 📊 Results
 
-Our findings indicate that EfficientNetV2 is the most effective architecture for dental disease classification, achieving an accuracy of 97.04% and mAP of 95.79%. The model demonstrates strong performance across various dental conditions, including orthodontic brackets, caries, decay, and fillings.
+Our findings indicate that InceptionV3 is the most effective architecture for dental disease classification, achieving an accuracy of 97.51% and mAP of 96.61%. The model demonstrates strong performance across various dental conditions, including orthodontic brackets, caries, decay, and fillings.
 
 ## 📸 Sample Output
 
